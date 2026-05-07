@@ -1,0 +1,12 @@
+{
+  "startedAt": "2026-05-07T01:04:14.928Z",
+  "pluginVersion": "1.1.0",
+  "workspaceRoot": "/workspaces/leggy-",
+  "operations": [
+    {
+      "ts": "2026-05-07T01:07:10.156Z",
+      "type": "scan",
+      "detail": "0 entities extracted"
+    }
+  ]
+}
